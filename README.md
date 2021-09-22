@@ -15,7 +15,7 @@ Você precisa ter na sua máquina o MySQL, Postman e SpringBoot ou eclipse sugir
 
 <h1>🔧 Execução do projeto </h1>
 Com tudo instalado agora é hora de executar o projeto :
-<p>1- Executar o projeto no Spring ou Eclipse através do Run As </p>
+<p>1- Clone o projeto para a sua máquina pelo git clone, e execute o projeto no Spring ou Eclipse através do Run As </p>
 <p>2- Como aplicação está com a segurança cadastre um usuario pelo postman e será gravado no banco de dados formato Json:</p>
 
 ```
