@@ -46,7 +46,7 @@ Modelo do objeto que está sendo salvo no banco:</p>
 
 }
 ```
-<p>5- Em seguida consulte no endpoit do swagger "getByCepUsingGET" </p>
+<p>5- Em seguida consulte o Cep que foi cadastrado anteriormente no endpoint do swagger "getByCepUsingGET" e terá o resto dos outros dados do endereço</p>
 
  <h1>✒️Autora</h1>
  <p>⚪ Blenda Gaspar - Desenvolvedora Java Jr</p>
